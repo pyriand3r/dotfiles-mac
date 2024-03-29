@@ -98,6 +98,14 @@ if [ $type = "private" ]; then
     
 fi
 
+# Copy german no dead keys keyboard layout
+cp ${PWD}/german_noDeadKeys.zip /Library/Keyboard Layouts/
+unzip /Library/Keyboard Layouts/german_noDeadKeys.zip
+rm /Library/Keyboard Layouts/german_noDeadKeys.zip
+
+# activating german no dead keys keyboard layout
+defaults write com.apple.HIToolbox AppleCurrentKeyboardLayoutInputSourceID -string "org.sil.ukelele.keyboardlayout.german_nodeadkeys.german-nodeadkeys"
+
 # macOS Settings
 echo "Changing macOS defaults..."
 defaults write com.apple.spaces spans-displays -bool false
@@ -128,6 +136,8 @@ echo "Planting Configuration Files..."
 ln -s ${PWD}/config/yabai ~/.config/yabai
 ln -s ${PWD}/config/skhd ~/.config/skhd
 ln -s ${PWD}/config/nvim ~/.config/nvim
+
+ln -s ${PWD}/scripts ~/.scripts
 
 source $HOME/.zshrc
 #cfg config --local status.showUntrackedFiles no
