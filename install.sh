@@ -46,13 +46,10 @@ echo "Installing Brew Casks..."
 ### general stuff
 brew install --cask warp
 brew install --cask arc
-brew install --cask libreoffice
 brew install --cask spotify
 brew install --cask font-jetbrains-mono
 brew install --cask font-monaspace
 brew install --cask docker
-brew install --cask freetube
-brew install --cask hiddenbar
 brew install --cask intellij-idea
 brew install --cask obsidian
 brew install --cask resilio-sync
@@ -62,12 +59,10 @@ brew install --cask uhk-agent
 
 ### only work machine
 if [ $type = "work" ]; then
-    brew install --cask github
     brew install --cask fork
     brew install --cask microsoft-teams
     brew install --cask linphone
     brew install --cask postman
-    brew install --cask meetingbar
     brew install --cask figma
     brew install --cask visual-studio-code
 fi
@@ -78,6 +73,8 @@ if [ $type = "private" ]; then
     brew install --cask gimp
     brew install --cask jdownloader
     brew install --cask unified-remote
+    brew install --cask libreoffice
+    brew install --cask freetube
 fi
 
 # Mac App Store Apps
@@ -91,6 +88,8 @@ if [ $type = "work" ]; then
     mas install 1327661892 #Xmind
     mas install 1295203466 #MS Remote Desktop
     mas install 1221250572 #Xnip
+    mas install 1423210932 #flow
+    mas install 
 fi
 
 ### only private machine
