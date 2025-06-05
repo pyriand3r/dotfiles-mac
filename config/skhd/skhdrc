@@ -15,33 +15,18 @@ cmd + shift - down : yabai -m window --swap south || $(yabai -m window --display
 cmd + shift - up : yabai -m window --swap north || $(yabai -m window --display north; yabai -m display --focus north)
 cmd + shift - right : yabai -m window --swap east || $(yabai -m window --display east; yabai -m display --focus east)
 
-# set insertion point in focused container#
-cmd + ctrl - left  : yabai -m window --insert west
-cmd + ctrl - down  : yabai -m window --insert south
-cmd + ctrl - up    : yabai -m window --insert north
-cmd + ctrl - right : yabai -m window --insert east
-
 # move focused window to next/prev workspace
-cmd + shift - 1 : yabai -m window --space 1
-cmd + shift - 2 : yabai -m window --space 2
-cmd + shift - 3 : yabai -m window --space 3
-cmd + shift - 4 : yabai -m window --space 4
-cmd + shift - 5 : yabai -m window --space 5
-cmd + shift - 6 : yabai -m window --space 6
-cmd + shift - 7 : yabai -m window --space 7
-cmd + shift - 8 : yabai -m window --space 8
+cmd + ctrl - 1 : yabai -m window --space 1
+cmd + ctrl - 2 : yabai -m window --space 2
+cmd + ctrl - 3 : yabai -m window --space 3
+cmd + ctrl - 4 : yabai -m window --space 4
+cmd + ctrl - 5 : yabai -m window --space 5
+cmd + ctrl - 6 : yabai -m window --space 6
+cmd + ctrl - 7 : yabai -m window --space 7
+cmd + ctrl - 8 : yabai -m window --space 8
 
 # Float / Unfloat window: lalt - space
 lalt - space : yabai -m window --toggle float; sketchybar --trigger window_focus
-
-# # mirror tree y-axis
-cmd + shift - y : yabai -m space --mirror y-axis
-
-# # mirror tree x-axis
-cmd + shift - x : yabai -m space --mirror x-axis
-
-# balance size of windows
-cmd + shift - 0 : yabai -m space --balance
 
 # enter fullscreen mode for the focused container
 alt - f : yabai -m window --toggle zoom-fullscreen
@@ -52,3 +37,9 @@ cmd + shift - h : yabai -m window --resize right:-100:0 || yabai -m window --res
 cmd + shift - j : yabai -m window --resize bottom:0:100 || yabai -m window --resize top:0:100
 cmd + shift - k : yabai -m window --resize bottom:0:-100 || yabai -m window --resize top:0:-100
 cmd + shift - l : yabai -m window --resize right:100:0 || yabai -m window --resize left:100:0
+
+# Focus previous display by arrangement index
+cmd + ctrl - n: yabai -m display --focus prev
+
+# Focus next display by arrangement index
+cmd + ctrl - m: yabai -m display --focus next
