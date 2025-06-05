@@ -29,6 +29,9 @@ echo "Installing Brew..."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew analytics off
 
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> ~/.bash_profile
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
 ## Taps
 echo "Tapping Brew..."
 brew tap homebrew/cask-fonts
@@ -40,6 +43,7 @@ brew install jq
 brew install mas
 brew install skhd
 brew install neovim
+brew install koekeishiya/formulae/yabai
 
 ## Casks
 echo "Installing Brew Casks..."
@@ -89,7 +93,6 @@ if [ $type = "work" ]; then
     mas install 1295203466 #MS Remote Desktop
     mas install 1221250572 #Xnip
     mas install 1423210932 #flow
-    mas install 
 fi
 
 ### only private machine
@@ -129,6 +132,9 @@ defaults write com.apple.finder AppleShowAllFiles -bool true
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
 defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+
+defaults write com.jetbrains.intellij ApplePressAndHoldEnabled -bool false
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 
 # Copying and checking out configuration files
 echo "Planting Configuration Files..."

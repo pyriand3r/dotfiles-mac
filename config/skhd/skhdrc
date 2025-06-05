@@ -1,3 +1,4 @@
+#cmd - return : osascript -e 'tell application "iTerm2" to create window with default profile command ""' || open -na iTerm
 cmd - return : osascript ~/.scripts/warp.scpt || open -na /Applications/Warp.app
 
 # yabai config
