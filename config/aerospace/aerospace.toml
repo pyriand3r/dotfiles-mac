@@ -10,25 +10,29 @@ enable-normalization-opposite-orientation-for-nested-containers = true
 # Mouse follows focus when focused monitor changes
 on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
 
-[workspace-to-monitor-force-assignment]
-    1 = 'secondary'       # browser                     
-    2 = 'main'            # IDE           
-    3 = 'secondary'       # Terminal           
-    4 = 'secondary'       # Communication       
-    5 = 'main'            # Notes
-    6 = 'main'
-    7 = 'main'
-    8 = 'secondary'        
+#[workspace-to-monitor-force-assignment]
+#    1 = 'secondary'       # browser
+#    2 = 'main'            # IDE
+#    3 = 'secondary'       # Terminal
+#    4 = 'secondary'       # Communication
+#    5 = 'main'            # Notes
+#    6 = 'main'
+#    7 = 'main'
+#    8 = 'secondary'
 
 [mode.main.binding]
     # See: https://nikitabobko.github.io/AeroSpace/goodies#open-a-new-window-with-applescript
     cmd-enter = '''exec-and-forget osascript ~/.scripts/warp.scpt || open -na /Applications/Warp.app'''
 
+    # move workspace to monitor
+    cmd-alt-shift-l = 'move-workspace-to-monitor right'
+    cmd-alt-shift-h = 'move-workspace-to-monitor left'
+
     # i3 wraps focus by default
     cmd-h =         'focus --boundaries-action wrap-around-the-workspace left'
     cmd-j =         'focus --boundaries-action wrap-around-the-workspace down'
     cmd-k =         'focus --boundaries-action wrap-around-the-workspace up'
-    cmd-l = 'focus --boundaries-action wrap-around-the-workspace right'
+    cmd-l =         'focus --boundaries-action wrap-around-the-workspace right'
 
     cmd-shift-h = 'move left'
     cmd-shift-j = 'move down'
@@ -42,7 +46,7 @@ on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
     cmd-ctrl-k = 'join-with up'
     cmd-ctrl-l = 'join-with right'
 
-    cmd-f = 'fullscreen'
+    alt-f = 'fullscreen'
 
     alt-s = 'layout v_accordion' # 'layout stacking' in i3
     alt-w = 'layout h_accordion' # 'layout tabbed' in i3
@@ -66,8 +70,6 @@ on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
     cmd-6 = 'workspace 6'
     cmd-7 = 'workspace 7'
     cmd-8 = 'workspace 8'
-    cmd-9 = 'workspace 9'
-    cmd-0 = 'workspace 10'
 
     cmd-shift-1 = 'move-node-to-workspace 1 --focus-follows-window'
     cmd-shift-2 = 'move-node-to-workspace 2 --focus-follows-window'
@@ -77,10 +79,17 @@ on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
     cmd-shift-6 = 'move-node-to-workspace 6 --focus-follows-window'
     cmd-shift-7 = 'move-node-to-workspace 7 --focus-follows-window'
     cmd-shift-8 = 'move-node-to-workspace 8 --focus-follows-window'
-    cmd-shift-9 = 'move-node-to-workspace 9 --focus-follows-window'
-    cmd-shift-0 = 'move-node-to-workspace 10 --focus-follows-window'
 
-    cmd-shift-c = 'reload-config'
+    cmd-alt-1 = 'move-node-to-workspace 1'
+    cmd-alt-2 = 'move-node-to-workspace 2'
+    cmd-alt-3 = 'move-node-to-workspace 3'
+    cmd-alt-4 = 'move-node-to-workspace 4'
+    cmd-alt-5 = 'move-node-to-workspace 5'
+    cmd-alt-6 = 'move-node-to-workspace 6'
+    cmd-alt-7 = 'move-node-to-workspace 7'
+    cmd-alt-8 = 'move-node-to-workspace 8'
+
+    cmd-alt-c = 'reload-config'
 
     cmd-tab = 'workspace-back-and-forth'
 
