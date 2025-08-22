@@ -25,8 +25,10 @@ on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
     cmd-enter = '''exec-and-forget osascript ~/.scripts/warp.scpt || open -na /Applications/Warp.app'''
 
     # move workspace to monitor
-    cmd-alt-shift-l = 'move-workspace-to-monitor right'
     cmd-alt-shift-h = 'move-workspace-to-monitor left'
+    cmd-alt-shift-j = 'move-workspace-to-monitor down'
+    cmd-alt-shift-k = 'move-workspace-to-monitor up'
+    cmd-alt-shift-l = 'move-workspace-to-monitor right'
 
     # i3 wraps focus by default
     cmd-h =         'focus --boundaries-action wrap-around-the-workspace left'
@@ -105,3 +107,11 @@ on-focused-monitor-changed = ['move-mouse monitor-lazy-center']
     l = 'resize width +50'
     enter = 'mode main'
     esc = 'mode main'
+
+[gaps]
+    inner.horizontal = 2
+    inner.vertical =   2
+    outer.left =       0
+    outer.bottom =     0
+    outer.top =        0
+    outer.right =      0
