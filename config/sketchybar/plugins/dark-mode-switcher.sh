@@ -11,9 +11,11 @@ fi
 
 darkMode=( $(osascript -e 'tell application "System Events" to tell appearance preferences to get dark mode') )
 
-color="0xffa6da95"
+background=0xffeed49f
+icon=0xff24273a
+
 if test "$darkMode" = "true"; then
-  color="0xff8aadf4"
+  background=0xff8aadf4
 fi
 
-sketchybar --set dark_mode icon.color="$color"
+sketchybar --set dark_mode icon.color="$icon" background.color="$background"
