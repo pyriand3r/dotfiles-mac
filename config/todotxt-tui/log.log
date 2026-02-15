@@ -1,0 +1,297 @@
+2025-11-07T11:28:28.183325+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(LightRed)), fg: None, modifier: None }
+2025-11-07T11:28:28.184323+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(LightRed)), fg: None, modifier: None }
+2025-11-07T11:28:28.184367+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T11:28:28.188610+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T11:30:09.096593+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:12:09.628531+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:18:10.473411+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:18:54.288611+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:19:40.948066+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:20:02.595924+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:20:21.066890+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:22:27.649659+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:22:39.234946+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:22:58.988099+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:26:17.682168+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(LightRed)), fg: None, modifier: None }
+2025-11-07T13:26:17.682559+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(LightRed)), fg: None, modifier: None }
+2025-11-07T13:26:17.682572+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T13:26:17.684935+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:29:09.078196+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(LightRed)), fg: None, modifier: None }
+2025-11-07T13:29:09.078390+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(LightRed)), fg: None, modifier: None }
+2025-11-07T13:29:09.078406+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T13:29:09.080746+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:30:04.477171+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: None, modifier: None }
+2025-11-07T13:30:04.478284+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: None, modifier: None }
+2025-11-07T13:30:04.478723+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T13:30:04.485537+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T13:33:23.604260+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(251, 215, 199))), fg: None, modifier: None }
+2025-11-07T13:33:23.604573+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(251, 215, 199))), fg: None, modifier: None }
+2025-11-07T13:33:23.604681+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T13:33:23.607308+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:05:42.990487+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:05:52.395045+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:16:05.472233+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:17:05.523025+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:18:09.658375+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: None, modifier: None }
+2025-11-07T14:18:09.658657+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: None, modifier: None }
+2025-11-07T14:18:09.658666+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:18:09.660689+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:19:34.300967+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:20:46.012571+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(244, 216, 102))), fg: None, modifier: None }
+2025-11-07T14:20:46.012743+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(244, 216, 102))), fg: None, modifier: None }
+2025-11-07T14:20:46.012755+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:20:46.015079+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:21:59.417797+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(235, 251, 199))), fg: None, modifier: None }
+2025-11-07T14:21:59.418543+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(235, 251, 199))), fg: None, modifier: None }
+2025-11-07T14:21:59.418574+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:21:59.422183+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:24:07.395053+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(235, 251, 199))), fg: None, modifier: None }
+2025-11-07T14:24:07.395295+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(235, 251, 199))), fg: None, modifier: None }
+2025-11-07T14:24:07.395310+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:24:07.397866+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:24:36.730208+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: None, modifier: None }
+2025-11-07T14:24:36.730843+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: None, modifier: None }
+2025-11-07T14:24:36.730872+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:24:36.734465+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:25:50.054383+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-07T14:25:50.054575+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-07T14:25:50.054590+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:25:50.057133+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:26:33.148175+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(153, 153, 153))), fg: None, modifier: None }
+2025-11-07T14:26:33.148782+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(153, 153, 153))), fg: None, modifier: None }
+2025-11-07T14:26:33.148810+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:26:33.152705+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:26:50.550670+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(204, 204, 204))), fg: None, modifier: None }
+2025-11-07T14:26:50.550837+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(204, 204, 204))), fg: None, modifier: None }
+2025-11-07T14:26:50.550852+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:26:50.553010+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-07T14:27:27.413414+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-07T14:27:27.414055+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-07T14:27:27.414081+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-07T14:27:27.417608+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T08:22:16.770592+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T08:22:40.839771+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T08:23:55.971830+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T08:25:18.429903+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T08:26:58.679641+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T09:17:12.958529+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T09:18:19.427431+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T09:18:59.010849+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T09:19:27.199898+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T09:20:25.983413+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T09:21:10.315658+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T10:23:52.683140+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T10:24:49.463992+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T10:26:17.413368+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-10T10:27:14.241546+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-12T12:04:05.412912+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-12T12:04:05.413356+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-12T12:04:05.413379+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-12T12:04:05.419356+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-12T12:05:11.109978+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-13T08:19:04.428384+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-13T08:19:04.428890+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-13T08:19:04.428903+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-13T08:19:04.436261+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-13T08:35:38.787075+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-11-13T08:35:38.788841+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-13T08:36:01.850374+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-13T08:36:01.850598+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-13T08:36:01.850616+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-13T08:36:01.852874+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-13T10:23:09.871902+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-17T07:59:19.270984+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-17T07:59:19.271784+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-17T07:59:19.271816+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-17T07:59:19.280321+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-24T15:44:16.112231+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-24T15:44:16.113166+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-24T15:44:16.113203+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-24T15:44:16.122695+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-24T15:45:12.640386+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-24T15:50:00.651295+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-24T15:50:00.651539+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-24T15:50:00.651556+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-24T15:50:00.654333+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-24T15:50:27.788653+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-24T16:16:51.114956+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-25T17:03:51.809433+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-26T09:09:55.116447+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-26T09:10:05.749075+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-26T09:10:10.096664+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-26T09:49:25.863874+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-11-26T09:49:25.868975+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-27T16:12:47.773184+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-27T16:12:47.777199+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-27T16:12:47.777230+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-27T16:12:47.786504+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-27T16:13:24.126792+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-27T16:15:36.978325+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-27T16:15:36.979074+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-27T16:15:36.979143+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-27T16:15:36.983767+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-27T16:18:46.321223+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-27T16:18:46.321703+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-11-27T16:18:46.321709+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-11-27T16:18:46.325747+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-11-28T10:30:12.710038+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 5.
+2025-11-28T10:30:12.742722+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:31:38.508605+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-02T11:31:38.509100+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-02T11:31:38.509107+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-12-02T11:31:38.516348+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:33:51.182759+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 27.
+2025-12-02T11:33:51.187035+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:34:06.389867+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:34:56.956887+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:35:24.308674+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:36:01.692586+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:36:42.897215+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:37:13.999918+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:37:51.462902+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:38:37.114661+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:38:48.721258+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:39:35.676367+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 4.
+2025-12-02T11:39:35.689250+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:39:48.130141+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:40:00.824324+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:40:07.579226+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:40:23.106873+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T11:41:01.774414+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-02T17:20:59.692348+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 5.
+2025-12-02T17:20:59.709521+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:28:27.540122+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:28:42.150147+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:29:23.754467+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:29:56.908285+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:30:20.914484+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:30:21.844042+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-12-04T11:30:21.848540+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:30:49.761551+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T11:31:32.643519+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-04T12:22:59.115700+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-12-04T12:22:59.143766+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-08T09:57:47.151835+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-08T09:57:47.268730+01:00 [ERROR] todotxt_tui::layout::widget::widget_list: len: 3, index: 2
+2025-12-08T09:58:17.108604+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T11:52:16.114859+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-09T11:52:16.115940+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-09T11:52:16.115961+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-12-09T11:52:16.126843+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T11:52:45.940302+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T11:53:30.274240+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T11:53:53.217280+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T11:54:48.210994+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T11:55:18.155753+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T15:11:45.101388+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 7.
+2025-12-09T15:11:45.137408+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-09T15:12:11.549981+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 8.
+2025-12-09T15:12:11.557342+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-10T09:53:43.789005+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:53:33.137173+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-12-11T11:53:33.148201+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:54:04.776045+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:54:17.565144+01:00 [ERROR] todotxt_tui::layout::widget::widget_list: len: 1, index: 0
+2025-12-11T11:54:25.737533+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:55:09.794347+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:55:43.948129+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:57:27.321205+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:58:03.883521+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-11T11:58:09.906492+01:00 [ERROR] todotxt_tui::layout::widget::widget_list: len: 5, index: 4
+2025-12-11T11:58:14.769872+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-12T11:44:32.399641+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-12T16:13:38.924531+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-12T16:13:38.925309+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-12T16:13:38.925326+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-12-12T16:13:38.937130+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-12T16:13:48.993707+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-12-12T16:13:48.995112+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-12T16:13:51.751375+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 0.
+2025-12-12T16:13:51.752991+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-12T16:14:44.930969+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-12T16:14:44.931116+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-12T16:14:44.931124+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-12-12T16:14:44.933474+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-17T16:34:19.389120+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-18T13:48:35.489834+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-18T13:48:35.491818+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2025-12-18T13:48:35.491845+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2025-12-18T13:48:35.508097+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-18T13:49:39.930824+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2025-12-18T13:49:39.933951+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-22T08:21:05.516685+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2025-12-22T08:21:54.189554+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-16T10:33:43.956105+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-01-16T10:33:43.956680+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-01-16T10:33:43.956688+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2026-01-16T10:33:43.963761+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-21T09:29:37.677911+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T08:57:58.418298+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-01-22T08:57:58.419249+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-01-22T08:57:58.419263+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2026-01-22T08:57:58.432628+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T08:59:29.285032+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:02:55.320183+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 13.
+2026-01-22T12:02:55.343747+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:03:00.353749+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 11.
+2026-01-22T12:03:00.357765+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:03:11.577393+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-01-22T12:03:11.587498+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:03:16.732850+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 9.
+2026-01-22T12:03:16.739934+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:03:40.382185+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 2.
+2026-01-22T12:03:40.391224+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:03:53.721615+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 9.
+2026-01-22T12:03:53.727133+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:04:03.065039+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-01-22T12:04:03.071247+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:04:12.681642+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-01-22T12:04:12.689263+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:04:17.029384+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-01-22T12:04:17.038444+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:04:21.783462+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-01-22T12:04:21.791462+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:04:48.430786+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 15.
+2026-01-22T12:04:48.437282+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:05:36.575624+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 25.
+2026-01-22T12:05:36.591725+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:05:41.402756+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 25.
+2026-01-22T12:05:41.408577+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:05:56.804945+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 27.
+2026-01-22T12:05:56.808855+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:16:58.610121+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 8.
+2026-01-22T12:16:58.612839+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-22T12:21:32.969184+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-01-22T12:21:32.970237+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-01-22T12:21:32.970264+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2026-01-22T12:21:32.984914+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-27T17:03:14.889390+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-28T09:46:56.223186+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-28T09:47:48.246432+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-01-28T10:56:49.768171+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-01-28T10:56:49.789377+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-02T10:14:40.718675+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-02-02T10:14:40.719531+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-02-02T10:14:40.719555+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2026-02-02T10:14:40.732489+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-03T10:26:11.358941+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-03T15:25:54.828916+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 10.
+2026-02-03T15:25:54.849688+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-03T15:25:57.421907+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 9.
+2026-02-03T15:25:57.428459+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-03T15:26:43.885031+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 7.
+2026-02-03T15:26:43.889657+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-03T15:26:58.044430+01:00 [INFO] todotxt_tui::layout::widget::state_list: Remove task with index 1.
+2026-02-03T15:26:58.048545+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-10T11:09:15.906517+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-10T11:09:52.932021+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-10T11:10:48.689063+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-13T09:30:08.443559+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-02-13T09:30:08.444384+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-02-13T09:30:08.444402+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2026-02-13T09:30:08.460445+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-13T10:00:21.051681+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-02-13T10:00:21.052280+01:00 [ERROR] todotxt_tui::layout::widget::state_categories: TextStyle { bg: Some(Color(Rgb(247, 227, 145))), fg: Some(Color(Rgb(0, 0, 0))), modifier: None }
+2026-02-13T10:00:21.052297+01:00 [INFO] todotxt_tui::file_worker: Init file worker: file: "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt", archive: None
+2026-02-13T10:00:21.060177+01:00 [INFO] todotxt_tui::file_worker: Load tasks from file /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt
+2026-02-13T10:08:01.963520+01:00 [INFO] todotxt_tui::file_worker: Saving todo task to /Users/gkrebs/sync/obsidian/work/todo/todo.todotxt

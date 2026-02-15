@@ -717,13 +717,14 @@ require('lazy').setup({
     -- change the command in the config to whatever the name of that colorscheme is
     --
     -- If you want to see what colorschemes are already installed, you can use `:Telescope colorscheme`
-    'ellisonleao/gruvbox.nvim',
+    --'ellisonleao/gruvbox.nvim',
+    'catppuccin/nvim',
     priority = 1000, -- make sure to load this before all the other start plugins
     init = function()
       -- Load the colorscheme here.
       -- Like many other themes, this one has different styles, and you could load
       -- any other, such as 'tokyonight-storm', 'tokyonight-moon', or 'tokyonight-day'.
-      vim.cmd.colorscheme 'gruvbox'
+      vim.cmd.colorscheme 'catppuccin'
       vim.o.background = 'dark'
 
       -- You can configure highlights by doing something like
@@ -736,11 +737,11 @@ require('lazy').setup({
       update_interval = 1000,
       set_dark_mode = function()
         vim.o.background = 'dark'
-        vim.cmd 'colorscheme gruvbox'
+        vim.cmd 'colorscheme catppuccin'
       end,
       set_light_mode = function()
         vim.o.background = 'light'
-        vim.cmd 'colorscheme gruvbox'
+        vim.cmd 'colorscheme catppuccin'
       end,
     },
   },

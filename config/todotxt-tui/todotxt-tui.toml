@@ -1,0 +1,114 @@
+init_widget = "List"
+window_title = "ToDo"
+layout = "[  Direction: Horizontal,  Size: 50%,  [    List: 80%, Preview: 20%,  ],  [    Direction: Vertical,    Done: 60%,    [      Contexts: 50%,      Projects: 50%,    ],  ],]"
+paste_behavior = "Insert"
+enable_mouse = true
+use_done = false
+pending_sort = "Priority"
+done_sort = "None"
+delete_final_date = false
+set_final_date = "OnlyMissing"
+set_created_date = true
+todo_path = "/Users/gkrebs/sync/obsidian/work/todo/todo.todotxt"
+file_watcher = true
+save_policy = "OnChange"
+border_type = "Rounded"
+list_shift = 4
+pending_format = "[$subject](! priority)"
+done_format = "[$subject](! priority)"
+preview_format = """
+Pending: $pending Done: $done
+Subject: $subject
+Priority: $priority
+Create date: $create_date
+Link: $link"""
+wrap_preview = true
+active_color = "Red"
+
+[window_keybinds]
+"Shift+l" = "MoveRight"
+"Shift+i" = "InsertMode"
+"Shift+h" = "MoveLeft"
+"Shift+e" = "EditMode"
+q = "Quit"
+"Shift+j" = "MoveDown"
+u = "Load"
+"Shift+k" = "MoveUp"
+"Shift+s" = "Save"
+"/" = "SearchMode"
+
+[list_refresh_rate]
+secs = 5
+nanos = 0
+
+[autosave_duration]
+secs = 900
+nanos = 0
+
+[tasks_keybind]
+x = "RemoveItem"
+d = "MoveItem"
+n = "NextSearch"
+"Shift+n" = "PrevSearch"
+"Shift+u" = "SwapUpItem"
+"Shift+d" = "SwapDownItem"
+Enter = "Select"
+
+[category_keybind]
+Backspace = "Remove"
+Enter = "Select"
+"Shift+n" = "PrevSearch"
+n = "NextSearch"
+
+[list_keybind]
+"Shift+g" = "ListLast"
+h = "CleanSearch"
+j = "ListDown"
+k = "ListUp"
+g = "ListFirst"
+
+[list_active_color]
+bg = "#F7E391"
+fg = "#000000"
+#bg = "#FBD7C7"
+
+[pending_active_color]
+
+[done_active_color]
+
+[category_active_color]
+
+[projects_active_color]
+
+[contexts_active_color]
+
+[tags_active_color]
+
+[priority_style.B]
+fg = "Yellow"
+
+[priority_style.C]
+fg = "Blue"
+
+[priority_style.A]
+fg = "Red"
+
+[projects_style]
+
+[contexts_style]
+
+[hashtags_style]
+
+[category_style]
+
+[category_select_style]
+fg = "Green"
+
+[category_remove_style]
+fg = "Red"
+
+[custom_category_style."+todo-tui"]
+fg = "LightBlue"
+
+[highlight]
+bg = "Yellow"
